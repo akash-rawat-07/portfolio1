@@ -23,6 +23,16 @@ npm run dev
 
 Then open the URL shown in your terminal (Vite typically uses `http://localhost:5173`).
 
+## Screenshot
+
+Screenshots can be multiple. Add images to the repo (recommended path: `public/screenshots/`) and reference them here:
+
+```md
+![Home](public/screenshots/1.png)
+![Projects](public/screenshots/02-projects.png)
+![Contact](public/screenshots/03-contact.png)
+```
+
 ## Build & preview
 
 Create a production build (outputs to `dist/`):
